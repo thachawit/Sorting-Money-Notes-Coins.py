@@ -1,3 +1,5 @@
+# for this mode means the result of fraction from the division
+
 fiveOO = int(input("Enter the change: "))
 print ("# 500 notes:",int(fiveOO/500))
 
